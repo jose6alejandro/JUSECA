@@ -1,9 +1,0 @@
-
-1. Instalar mplayer con el comando sudo apt-get mplayer
-
-2. Si el computador es de 64bits cambiar la primera línea del
-   archivo Makefile
-
-3. Compilar el programa usando el comando make
-
-4. Ejecutar el programa ./juego
