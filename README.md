@@ -22,7 +22,7 @@
 
 ### 3. Proyecto realizado sobre un **juego** para estimular la compresión de algoritmos básicos.
 
-> Juego en terminal para reforzar la comprensión de algoritmos. (Publicación en proceso) 
+> Juego en terminal para reforzar la comprensión de algoritmos. (Publicación en curso) 
 - **[Abrir](https://www.youtube.com/watch?v=hm5CWCPVrRc) Actividad realizada con el juego**
 
 - **[Abrir](https://forms.gle/R9DrYZbevWkrB3Yv9) Cuestionario sobre el juego**
