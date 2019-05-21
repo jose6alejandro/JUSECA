@@ -15,7 +15,7 @@
     - Ejemplo8.c = comparar la longitud de dos palabras
     - Ejemplo9.c = determinar si una palabra es palindromo
 - Recursividad
-    - buscar.c = buscar la posicion de un número en el array
+    - buscar.c = buscar la posición de un número en el array
     - exponencial.c = operación exponencial de un número
     - factorial.c = factorial de un número
     - fibonacci.c = serie de fibonacci
