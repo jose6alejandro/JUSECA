@@ -1,4 +1,4 @@
-# 1.Juego para estimular la compresión de algoritmos básicos.
+## Juego para estimular la compresión de algoritmos básicos.
 
 > Juego en terminal para reforzar la comprensión de algoritmos. (Publicación en curso) 
 - **[Abrir](https://www.youtube.com/watch?v=hm5CWCPVrRc) Actividad realizada con el juego**
