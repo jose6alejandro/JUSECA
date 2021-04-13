@@ -1,8 +1,8 @@
-## Juego para estimular la compresión de algoritmos básicos.
+## JUSECA: UN JUEGO SERIO PARA LA COMPRENSIÓN DE ALGORITMOS
 
 - **[Abrir](https://www.youtube.com/watch?v=hm5CWCPVrRc) Actividad realizada con el juego**
 
-- **[Abrir](https://forms.gle/R9DrYZbevWkrB3Yv9) Cuestionario sobre el juego**
+- **[Abrir](https://forms.gle/R9DrYZbevWkrB3Yv9) Cuestionario aplicado para evaluar el juego**
 #### **Instalación y ejecución del juego**
 **1)** Instalar mplayer con el comando sudo apt-get mplayer
 ```sh
