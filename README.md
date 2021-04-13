@@ -32,3 +32,10 @@ $ ./juego
 ![picture](mapa.png)
 
 ![picture](juego.png)
+
+
+## Resultados del cuestionario
+![picture](Experiencia_de_usuario.png)
+
+![picture](Usabilidad.png)
+
