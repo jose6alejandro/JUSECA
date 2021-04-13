@@ -35,7 +35,6 @@ $ ./juego
 
 
 ## Resultados del cuestionario
-![picture](Experiencia_de_usuario.png)
-
 ![picture](Usabilidad.png)
 
+![picture](Experiencia_de_usuario.png)
